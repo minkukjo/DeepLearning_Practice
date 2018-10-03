@@ -1,1 +1,1 @@
-Deeplearning_Practice
+DeepLearning_Practice
